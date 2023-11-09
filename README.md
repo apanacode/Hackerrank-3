@@ -1,3 +1,4 @@
 To display the longest word in the string .
 for example: Friends are like family members.
-The output should be : friends
+The output should be : friends 
+we can use methods length().
